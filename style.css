@@ -1,0 +1,76 @@
+
+.flex-container{
+ display: flex;
+  justify-content: center;
+  justify-items: center;
+  height: 60vh;
+  margin-top:5px;
+  margin-bottom: 10%;
+  background-color:snow;
+  width: 900px;
+  margin-right: 0%;
+  margin-left:10px;
+}
+h5{
+  text-transform: capitalize;
+  text-transform: uppercase;
+  -webkit-text-fill-color: brown;
+}
+.card{
+background-color: white;
+}
+h1{
+
+-webkit-text-fill-color: rgb(15, 40, 114);
+width: 60px;
+}
+img{
+width: 287px;
+height: 210px;
+}
+
+.card{
+
+margin-right: 20px;
+}
+
+.ss{
+margin-right:0%;
+}
+.para{
+position: absolute;
+margin-left: 945px;
+width: 400px;
+margin-right: 0%;
+margin-top: 0%;
+}
+span{
+-webkit-text-fill-color: blue;
+text-transform: capitalize;
+text-transform: capitalize;
+}
+*{
+
+padding: 0%;
+
+}
+.footer{
+width:1499px;
+height:110px;
+background-color:navy;
+}
+.grid{
+display: grid;
+grid-template-rows: 1fr;
+grid-template-columns: 1fr;
+}
+.xmin{
+position: absolute;
+width: 1500px;
+height: 500px;
+opacity: 10%;
+}
+b{
+text-align:center;
+margin-left: 1000px;
+}
